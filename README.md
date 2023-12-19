@@ -7,6 +7,7 @@ Pext is a visually pleasing and easy-on-the-eyes theme for Visual Studio Code, d
 
 ## Features
 
+- **Open Source**
 - **Eye-friendly Colors**
 - **Syntax Highlighting**
 - **Custom Icons**
