@@ -22,8 +22,10 @@ Pext is a visually pleasing and easy-on-the-eyes theme for Visual Studio Code, d
 
 ## Screenshots
 
-![Screenshot 1](./images/pext%20theme.png)
-![Colors](./images/pext%20theme%20colors.png)
+
+![Screenshot 1](https://ibb.co/5hbDv1Q)
+![Colors](https://ibb.co/4KfF4YG)
+
 
 ## Issues and Contributions
 
