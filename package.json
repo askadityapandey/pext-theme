@@ -1,0 +1,29 @@
+{
+  
+    "name": "pext-theme",
+    "displayName": "PEXT",
+    "publisher": "askadityapandey",
+    "version": "1.0.0",
+    "description": "A visually pleasing and easy-on-the-eyes theme for Visual Studio Code.",
+    "keywords": ["visual studio code", "theme", "syntax highlighting", "pext"],
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/askadityapandey/pext-theme.git"
+    },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pext",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pext-color-theme.json"
+      }
+    ]
+  }
+}
